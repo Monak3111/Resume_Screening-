@@ -1,6 +1,3 @@
-# Resume_Screening
-
-
 # ATS Resume Screening AI
 
 This is a simple web app that checks how well your resume matches a job description.
